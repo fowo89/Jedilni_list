@@ -1,0 +1,7 @@
+Dnevni menu:
+jed3 - 3.0 EUR
+jed2 - 2.0 EUR
+jed1 - 1.0 EUR
+jed5 - 5.0 EUR
+jed4 - 4.0 EUR
+Vse cene vsebujejo DDV.
